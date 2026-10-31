@@ -6,7 +6,7 @@ A menu-driven console application in C that stores tasks in a **singly linked li
 
 **Main DSA concepts:** Linked List, Sorting
 
-For a beginner-friendly walkthrough of the code, see [DSA_TaskManager_Explained.md](todolist.md).
+For a beginner-friendly walkthrough of the code, see [todolist.md](todolist.md).
 
 ---
 
