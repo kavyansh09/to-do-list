@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Executables
+TaskManager
+
+# Build directory
+build/
