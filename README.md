@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # To-Do List and Task Manager
 
 > DSA Lab Project · C
