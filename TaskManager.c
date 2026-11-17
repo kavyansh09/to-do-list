@@ -77,6 +77,7 @@ void displayTasks(int filter) {
     printf("\n%-4s %-30s %-8s %-11s %-9s\n", "ID", "Title", "Priority", "Deadline", "Status");
     printf("----------------------------------------------------------------------\n");
 
+    
     for (t = head; t != NULL; t = t->next) {
         if (filter == 1 && t->completed) continue;
         if (filter == 2 && !t->completed) continue;
